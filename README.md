@@ -2,7 +2,7 @@
 
 
 * :computer: Atuo como Quality Assurance de sistemas Web
-* :books: Estudante de Engenharia de Software
+* :books: Estudante de Engenharia de Software e Ciência da Computação
 * :mortar_board: Formanda em Análise e Desenvolvimento de Sistemas 
 * :pencil2: Formada em Arte Digital, inclusive é o meu hobbie desenhar e modelar no Zbrush 
 * :rocket: No momento sigo focada em JavasScript, HTML e CSS mas pretendo estudar outras linguagens e tecnologias
